@@ -1,0 +1,8 @@
+.DS_Store
+/target
+
+# prevents images from being saved in git, make sure to keep consistent naming
+src/input_img.*
+output.png
+
+
